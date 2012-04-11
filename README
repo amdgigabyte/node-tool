@@ -1,0 +1,7 @@
+NODE-TOOL
+filewatcher.js
+简单的监视文件变化的脚本
+
+USAGE:node filewatcher.js filename
+
+TODO：精确的监视文件的变化
